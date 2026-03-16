@@ -6,7 +6,7 @@
    - Nama dan deskripsi
    - Tombol Instagram & LinkedIn
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/258ea39b-8ed8-4488-9515-c26dd15a00d3" width="600"/>
+  <img src="https://github.com/user-attachments/assets/da213778-a6f5-4383-82ed-db62e1bd498c" width="600"/>
 </p>
 
 2. About Me
@@ -14,20 +14,20 @@
    - Skills dengan progress bar
    - Pengalaman organisasi dan project
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f898cc2e-b74e-4c3a-a777-07f767db03a6" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b0e86d66-2362-4c8d-a114-8a16b831696d" width="600"/>
 </p>
 
 3. Certificates
    - Sertifikat dalam bentuk card layout grid
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/158c4c64-3a93-47ec-9b2a-8a66b4dbf48c" width="600"/>
+  <img src="https://github.com/user-attachments/assets/3fa56b2b-7450-489f-bd52-1b4aea8caaea" width="600"/>
 </p>
 
 4. Admin Page
    - Form tambah skill, experience, dan certificate
    - List data dengan tombol hapus
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0a850f3f-4ce3-4c79-b1ad-1f2f6d5cc5c2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/3689a247-5f70-4c97-b914-8180fd7385a8" width="600"/>
 </p>
 
 ## Penjelasan Code Setiap Section/Fitur
