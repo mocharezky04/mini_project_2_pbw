@@ -125,9 +125,22 @@
 - CSS
 - Bootstrap Icons
 
-## Struktur Folder
-- `index.php`, `admin.php`, `style.css`, `script.js` (root)
-- `images/` aset gambar
-- `actions/` file aksi tambah/hapus (`aksi_*.php`)
-- `config/` konfigurasi DB (`koneksi.php`)
-- `db/` file SQL (`db_web_porto.sql`)
+## Struktur Repo
+```text
+├── index.php
+├── admin.php
+├── style.css
+├── script.js
+├── images/
+├── actions/
+│   ├── aksi_tambah_skill.php
+│   ├── aksi_hapus_skill.php
+│   ├── aksi_tambah_experience.php
+│   ├── aksi_hapus_experience.php
+│   ├── aksi_tambah_certificate.php
+│   └── aksi_hapus_certificate.php
+├── config/
+│   └── koneksi.php
+└── db/
+    └── db_web_porto.sql
+```
