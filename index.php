@@ -293,7 +293,7 @@ $initials = $initials !== '' ? $initials : 'SI';
             <?php foreach ($socialLinks as $link): ?>
                 <a href="<?= e($link['url']); ?>" target="_blank"><i class="<?= e($link['icon_class']); ?>"></i></a>
             <?php endforeach; ?>
-            <a href="mailto:"><i class="bi bi-envelope"></i></a>
+            <a href="mailto:rrezkyramadhan04@gmail.com"><i class="bi bi-envelope"></i></a>
         </div>
     </footer>
 
