@@ -131,7 +131,7 @@
 ### 15. Footer (`index.php`)
 - Data social links diambil dari tabel `social_links` di database menggunakan `foreach`
 - Icon dirender dari kolom `icon_class` (Bootstrap Icons class)
-- Link GitHub profile menggunakan URL langsung ke profil GitHub, membuka tab baru dengan target="_blank"
+- Link GitHub profile menggunakan URL langsung ke profil GitHub Saya, membuka tab baru dengan target="_blank"
 
 ---
  
