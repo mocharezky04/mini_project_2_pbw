@@ -250,3 +250,56 @@
 └── db/
     └── db_web_porto.sql
 ```
+
+---
+
+## Cara Menjalankan
+
+### Requirement
+- [Laragon](https://laragon.org/)
+- PHP
+- MySQL / MariaDB
+
+### Langkah-langkah
+
+**1. Clone repository**
+```bash
+git clone https://github.com/mocharezky04/mini_project_2_pbw.git
+```
+
+**2. Pindahkan ke folder Laragon**
+
+Taruh folder hasil clone di:
+```
+C:/laragon/www/
+```
+
+**3. Import database**
+- Buka `http://localhost/phpmyadmin`
+- Buat database baru bernama `web_porto`
+- Pilih database `web_porto` → klik tab **Import**
+- Upload file `db/db_web_porto.sql`
+
+**4. Sesuaikan koneksi database**
+
+Buka file `config/koneksi.php`, pastikan isinya sesuai:
+```php
+$host   = "localhost";
+$user   = "root";
+$pass   = "";          // kosong jika tidak ada password
+$dbname = "web_porto";
+```
+
+**5. Jalankan website**
+- Pastikan Laragon sudah running (Apache + MySQL)
+- Buka browser dan akses:
+```
+http://localhost/mini_project_2_pbw/
+```
+
+**6. Akses halaman admin**
+```
+http://localhost/mini_project_2_pbw/admin.php
+```
+
+---
