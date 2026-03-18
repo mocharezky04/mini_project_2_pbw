@@ -279,6 +279,7 @@ C:/laragon/www/
 - Buat database baru bernama `web_porto`
 - Pilih database `web_porto` → klik tab **Import**
 - Upload file `db/db_web_porto.sql`
+- Upload file `db/db_web_porto_updated.sql` untuk melihat update (sebenarnya yang updated cuma saya mencoba nambah sertifikat apakah berhasil atau tidak)
 
 **4. Sesuaikan koneksi database**
 
